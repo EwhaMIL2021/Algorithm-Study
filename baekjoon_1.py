@@ -36,8 +36,18 @@ A ,B = map(int,input().split())
 print(A+B)
 
 
-# In[ ]:
+# 1-9 : 10869
+A ,B = map(int,input().split())
+print(A+B,A-B,A*B,A // B, A%B, sep='\n')
 
+# 1-11 : 2588
+a = int(input())
+b = int(input())
 
+num3 = a*(b%10)
+num4 = a*((b%100)//10)
+num5 = a*(b//100)
+num6 = a*b
+print(num3,num4,num5,num6, sep ='\n')
 
 
