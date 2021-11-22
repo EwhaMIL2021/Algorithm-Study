@@ -27,8 +27,6 @@ DP - 1463, 11726, 11727, 9095, 10844, 11057, 2193, 9465, 2156, 11053, 11055, 117
 
 ### 그 외 알고리즘 사이트
 
-프로그래머스: https://programmers.co.kr/ <br>
-구름LEVEL: https://level.goorm.io/ <br>
-
-영어로 문제 풀어보고 싶으면,<br>
-LeetCode: https://leetcode.com/
+프로그래머스: https://programmers.co.kr/ (기업 코딩테스트 준비하기 좋음)<br>
+구름LEVEL: https://level.goorm.io/ (난이도가 쉬운 편이라 연습하기 좋음)<br>
+LeetCode: https://leetcode.com/ (영어로 문제 풀어보고 싶을 때)
